@@ -99,7 +99,7 @@ public class Strings {
 
     /**
      * Write a function accepting a string
-     * returning the same string (trimmed of the first and last characters) if the first or last characters are equal
+     * returning the same string (trimmed of the first and last characters) if the first and last characters are equal
      * or returning the same string (without trimming anything) otherwise
      * see substring(), charAt() methods
      */
